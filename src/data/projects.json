@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The Pepple Wedding",
+    "imageSrc": "projects/pepple.png",
+    "description": "This is a project comissioned by a newly wed couple to share their stories and their love with others.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://the-pepple-wedding.vercel.app",
+    "source": "https://github.com/JudeTheDuud/the-pepple-wedding"
+  },
+  {
+    "title": "Astronomy of the Day",
+    "imageSrc": "projects/astronomy.png",
+    "description": "This is a project made to learn the latest languages as well as making API calls by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://nasa-app-wine.vercel.app",
+    "source": "https://github.com/JudeTheDuud/nasa-app"
+  },
+  {
+    "title": "Jasmine's Portfolio",
+    "imageSrc": "projects/jasmine.png",
+    "description": "This is a project comissioned to be an easy to read portfolio page to garner potential employers attraction.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://jasmine-osai.vercel.app",
+    "source": "https://github.com/JudeTheDuud/laije-portfolio"
+  }
+]

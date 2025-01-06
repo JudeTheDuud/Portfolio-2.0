@@ -1,0 +1,30 @@
+[
+  {
+    "role": "Software Engineering Intern",
+    "organisation": "ChristiesLabs",
+    "startDate": "Jan, 2022",
+    "endDate": "Jun, 2022",
+    "experiences": ["Worked on DSAs and Web-Scraping", "Scraped Important info during Russian/Ukranian fiasco to feed a blog API"],
+    "imageSrc": "history/christies.jpeg"
+  },
+  {
+    "role": "Front-End Lead",
+    "organisation": "Shuttle9ja",
+    "startDate": "Oct, 2022",
+    "endDate": "July, 2023",
+    "experiences": ["Worked on implementing Respnsive Design", "Managed entire front-end implementation process as well as other front-end developers "],
+    "imageSrc": "history/shuttle9ja.jpeg"
+  },
+  {
+    "role": "Front-End Lead",
+    "organisation": "King-Jesus Collections",
+    "startDate": "March, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components",
+      "Integrated Product APIs"
+    ],
+    "imageSrc": "history/king.jpg"
+  }
+]
