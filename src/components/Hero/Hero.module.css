@@ -116,4 +116,8 @@
     margin-top: 2.5rem;
     font-size: 3rem;
   }
+
+  .description{
+    width: 100%;
+  }
 }

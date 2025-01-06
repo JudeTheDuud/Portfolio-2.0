@@ -81,6 +81,11 @@
     flex-direction: column;
   }
 
+  .title{
+    margin-bottom: 0.2rem;
+    text-align: center;
+  }
+
   .aboutImage {
     display: none;
   }
@@ -90,7 +95,10 @@
   }
 
   .aboutItem {
+    padding-top: 0;
     padding-left: 0;
     padding-right: 0;
+    flex-direction: column;
+    gap: 1.3rem;
   }
 }
