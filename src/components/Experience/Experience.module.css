@@ -140,4 +140,13 @@
     text-align: center;
   }
 
+  .historyItemDetails p{
+    text-align: center;
+  }
+
+  .historyItemList li{
+    text-align: left;
+    width: 100%;
+  }
+
 }
