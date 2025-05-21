@@ -6,11 +6,16 @@
   border-radius: 10px;
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
-  padding: 18px 24px;
+  padding: 30px 40px;
   max-width: 345px;
+  width: 100%;
 }
 
 .image {
+  width: 100%;
+  min-height: 200px;
+  height: 100%;
+  object-fit: cover;
   margin-bottom: 26px;
 }
 
@@ -21,7 +26,7 @@
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400;
 }
 

@@ -8,11 +8,11 @@
     "source": "https://github.com/JudeTheDuud/the-pepple-wedding"
   },
   {
-    "title": "Astronomy of the Day",
-    "imageSrc": "projects/astronomy.png",
-    "description": "This is a project made to learn the latest languages as well as making API calls by building an app.",
+    "title": "SteezeVault",
+    "imageSrc": "projects/steeze.png",
+    "description": "This is an e-commerce store comissioned by an up and comming entrepreneur to bring together various brands under one umbrella.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://nasa-app-wine.vercel.app",
+    "demo": "https://steezevault.com",
     "source": "https://github.com/JudeTheDuud/nasa-app"
   },
   {
